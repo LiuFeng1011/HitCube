@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<conf_effects>
+<conf_effect id="60010010" description="死亡爆炸效果" loop="0" res_type="1" file_path="Prefabs/Effect/BombEffect" repeat_count="20" out_show="0" />
+<conf_effect id="60010011" description="子弹拖尾" loop="1" res_type="1" file_path="Prefabs/Effect/BulletEffect" repeat_count="20" out_show="0" />
+</conf_effects>
